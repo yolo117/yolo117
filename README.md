@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yolo117
+- 👋 Hi, I’m @yolo117 Clint
 - 👀 I’m interested in Software Development, Writing code 
 - 🌱 I’m currently learning Python/Django
 - 💞️ I’m looking to collaborate on Any projects, Any Language I am in
